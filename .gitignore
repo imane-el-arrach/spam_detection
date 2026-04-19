@@ -21,3 +21,7 @@ Thumbs.db
 
 # data 
 data/
+*.npz
+y_train.csv
+y_test.csv
+vectorizers.pkl
