@@ -16,7 +16,7 @@ Classer automatiquement des messages SMS/texte en **spam** ou **ham** (non-spam)
 
 ## 🖼️ Résultats
 
-![Courbes ROC et Precision-Recall — Top 5 combinaisons](screenshots/roc_pr_curves.png)
+![Courbes ROC et Precision-Recall — Top 5 combinaisons](screenshots/roc_pr_curves.PNG)
 *Le SVM domine nettement sur les 5 meilleures combinaisons, avec un ROC-AUC allant jusqu'à 0.9856 et un PR-AUC jusqu'à 0.9660 (Uni+Bigrammes)*
 
 
