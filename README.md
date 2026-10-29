@@ -99,7 +99,7 @@ jupyter notebook
 ## 📂 Structure du projet
 
 ```
-spam_detection1/
+spam_detection/
 ├── data_raw.csv                    # Dataset brut
 ├── data_preprocessed.csv           # Dataset après nettoyage
 ├── data_exploration.ipynb          # 1. Exploration initiale
